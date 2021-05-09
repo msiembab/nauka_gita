@@ -21,3 +21,6 @@ function fancyAlert(arg) {
 
 ...
 #### Nowy tekst
+- 1
+- 2
+- 3
