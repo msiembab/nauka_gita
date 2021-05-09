@@ -4,8 +4,8 @@ Projekt testowy WSB
 
 ...
 
-Lista czynnosci do wykonania:
+Lista czynności do wykonania:
 
-- One
-- Two
-- Three
+- Utworzenie foldera roboczego repozytorium
+- Inicjalizacja GITa
+- Konfiguracja
