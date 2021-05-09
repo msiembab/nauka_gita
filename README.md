@@ -18,3 +18,6 @@ function fancyAlert(arg) {
   }
 }
 ```
+
+...
+#### Nowy tekst
